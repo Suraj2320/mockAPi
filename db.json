@@ -1,125 +1,33 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "PUFFER COAT WITH RUBBERISED DETAI",
-        "image": "https://user-images.githubusercontent.com/101625055/207589785-38d6103d-fefe-4e72-a86d-a9f28e8bd59d.jpg",
-        "price": 2490
-      },
-      {
-        "id": 2,
-        "name": "RHINESTONE VELVET DRESS",
-        "image": "https://user-images.githubusercontent.com/101625055/207589991-f1214898-60e1-435c-85dd-c96dfb91f400.jpg",
-        "price": 3080
-      },
-      {
-        "id": 3,
-        "name": "RHINESTONE VELVET DRESS",
-        "image": "https://user-images.githubusercontent.com/101625055/207590045-bd837c73-5de7-4a9c-b36a-272025fd5efb.jpg",
-        "price": 3052
-      },
-      {
-        "id": 4,
-        "name": "FAUX LEATHER BIKER JACKET",
-        "image": "https://user-images.githubusercontent.com/101625055/207590117-90782a83-5012-480d-b388-30ea7a369bbe.jpg",
-        "price": 3517
-      },
-      {
-        "id": 5,
-        "name": "WOOL BLEND COAT",
-        "image": "https://user-images.githubusercontent.com/101625055/207590140-38eeff6e-faa1-4169-acdc-b57ae8a6e0b8.jpg",
-        "price": 4728
-      },
-      {
-        "id": 6,
-        "name": "PRINTED PLUSH SET",
-        "image": "https://user-images.githubusercontent.com/101625055/207594619-d412d20d-f42f-4297-8909-0581fa225bb7.jpg",
-        "price": 4540
-      },
-      {
-        "id": 7,
-        "name": "PRINTED PLUSH SET1",
-        "image": "https://user-images.githubusercontent.com/101625055/207594636-e602b9a4-5b8b-454f-aa9b-aa7ea77483a1.jpg",
-        "price": 3009
-      },
-      {
-        "id": 8,
-        "name": "PRINTED PLUSH SET2",
-        "image": "https://user-images.githubusercontent.com/101625055/207594665-3aec0276-6d52-4ea1-be30-0b2fe55a84a5.jpg",
-        "price": 1934
-      },
-      {
-        "id": 9,
-        "name": "DOUBLE-FACED FAUX SHEARLING COAT",
-        "image": "https://user-images.githubusercontent.com/101625055/207594684-3422c497-8cda-431f-8181-f1a543e1fad0.jpg",
-        "price": 4215
-      },
-      {
-        "id": 10,
-        "name": "DOUBLE-FACED FAUX SHEARLING COAT",
-        "image": "https://user-images.githubusercontent.com/101625055/207594703-09edb7a9-5af0-495f-a862-f5456153769f.jpg",
-        "price": 1962
-      },
-      {
-        "id": 11,
-        "name": "KIDS/ STRETCH ANKLE BOOTS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599063-002a8951-9e13-43c3-bf88-efef852eb45d.jpg",
-        "price": 3536
-      },
-      {
-        "id": 12,
-        "name": "KIDS/ FAUX-PATENT-FINISH BALLET FLATS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599086-b39876fb-0bcb-4c65-b39c-74b98a9006ea.jpg",
-        "price": 2819
-      },
-      {
-        "id": 13,
-        "name": "KIDS/ LEATHER SHOES",
-        "image": "https://user-images.githubusercontent.com/101625055/207599111-d194532e-d55b-451c-af2d-e48ae557e91f.jpg",
-        "price": 4013
-      },
-      {
-        "id": 14,
-        "name": "KIDS/ LEATHER SHOES",
-        "image": "https://user-images.githubusercontent.com/101625055/207599133-cbc9cb25-3c15-44d7-b115-0994f0452e46.jpg",
-        "price": 4779
-      },
-      {
-        "id": 15,
-        "name": "KIDS/ CONTRAST LEATHER MOUNTAIN BOOTS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599159-fa54e6f8-f96f-4548-a379-1407473f5c7e.jpg",
-        "price": 3593
-      },
-      {
-        "id": 16,
-        "name": "KIDS/ CONTRAST LEATHER MOUNTAIN BOOTS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599181-e6bab0fe-4dd5-453b-919f-27a4ed81cbb6.jpg",
-        "price": 4899
-      },
-      {
-        "id": 17,
-        "name": "KIDS/ CONTRAST LEATHER MOUNTAIN BOOTS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599200-e4a2c153-f247-4aba-ac7b-8efbe5699c25.jpg",
-        "price": 5263
-      },
-      {
-        "id": 18,
-        "name": "KIDS/ LEATHER ANKLE BOOTS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599223-21436ef9-62c6-4e75-a2aa-ddaf4642e4f9.jpg",
-        "price": 2759
-      },
-      {
-        "id": 19,
-        "name": "KIDS/ LACE-UP ANKLE BOOTS",
-        "image": "https://user-images.githubusercontent.com/101625055/207599238-292bdf3f-e1b0-478c-a27a-6bb1c419ca05.jpg",
-        "price": 5461
-      },
-      {
-        "id": 20,
-        "name": "KIDS/ LEATHER ANKLE BOOTS - LIMITED EDITION",
-        "image": "https://user-images.githubusercontent.com/101625055/207599259-02337b9f-6781-43c5-a56d-434183bbf1b3.jpg",
-        "price": 3196
-      }
-    ]
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+			"type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
-    
